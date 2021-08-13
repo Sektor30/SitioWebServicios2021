@@ -295,7 +295,8 @@ background: radial-gradient(circle, rgba(209,209,209,1) 28%, rgba(252,252,252,1)
 /*RESULTS*/
 
 .results{
-    background: #c23c55;
+    background: rgb(255,207,206);
+    background: linear-gradient(0deg, rgba(255,207,206,1) 0%, rgba(253,45,65,0.7357317927170868) 17%);
     padding-top: 30px;
 }
 
