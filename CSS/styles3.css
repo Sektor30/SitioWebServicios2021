@@ -384,6 +384,7 @@ background: radial-gradient(circle, rgba(209,209,209,1) 28%, rgba(252,252,252,1)
     border-radius: 6px;
     padding: 10px 0 10px 15px;
     margin-bottom: 10px;
+    cursor: pointer;
    
 }
 
@@ -442,9 +443,18 @@ footer{
 
 }
 
+.social-media a{
+    display: inline-block;
+    text-align: center;
+
+}
+
+
+
+
 .social-media i{
     font-size: 25px;
-    display: inline-block;
+    
     color: #adb6c7;
     border: 1px solid #adb6c7 ;
     border-radius: 50px;
@@ -454,7 +464,7 @@ footer{
     line-height: 36px;
     cursor: pointer;
     margin-top: 20px;
-    text-align: center;
+   
     transition: all ease-in-out .2s;
     margin-right: 5px;    
 }
