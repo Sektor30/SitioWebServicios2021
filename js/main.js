@@ -1,5 +1,12 @@
 
 
+/*AOS INICIALIZACION*/
+
+  AOS.init();
+
+
+
+
 let ubicacionPrincipal = window.pageYOffset
 
 /** SOLICITUD DE UBICACION DE LA PAGINA - EMITIDA EN CONSOLE */
